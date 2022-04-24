@@ -10,7 +10,7 @@
 
 ## 安装
 
-> composer require fenghoer/think-image
+> composer require fenghoer/think-image:dev-master
 
 ## 使用
 
