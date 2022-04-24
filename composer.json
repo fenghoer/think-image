@@ -20,7 +20,7 @@
     },
     "autoload": {
         "psr-4": {
-            "think\\": "src"
+            "fenghoer\\": "src"
         }
     }
 }

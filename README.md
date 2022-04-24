@@ -15,9 +15,9 @@
 ## 使用
 
 ~~~
-$image = \think\Image::open('./image.jpg');
+$image = \fenghoer\Image::open('./image.jpg');
 或者
-$image = \think\Image::open(request()->file('image'));
+$image = \fenghoer\Image::open(request()->file('image'));
 
 
 $image->crop(...)

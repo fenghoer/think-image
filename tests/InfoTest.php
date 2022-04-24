@@ -10,20 +10,20 @@
 // +----------------------------------------------------------------------
 namespace tests;
 
-use think\Image;
+use fenghoer\Image;
 
 class InfoTest extends TestCase
 {
 
     public function testOpen()
     {
-        $this->setExpectedException("\\think\\image\\Exception");
+        $this->setExpectedException("\\fenghoer\\image\\Exception");
         Image::open('');
     }
 
     public function testIllegal()
     {
-        $this->setExpectedException("\\think\\image\\Exception", 'Illegal image file');
+        $this->setExpectedException("\\fenghoer\\image\\Exception", 'Illegal image file');
         Image::open(TEST_PATH . 'images/test.bmp');
     }
 

@@ -10,7 +10,7 @@
 // +----------------------------------------------------------------------
 namespace tests;
 
-use think\Image;
+use fenghoer\Image;
 
 class WaterTest extends TestCase
 {

@@ -9,7 +9,7 @@
 // | Author: yunwuxin <448901948@qq.com>
 // +----------------------------------------------------------------------
 
-namespace think\image;
+namespace fenghoer\image;
 
 class Exception extends \RuntimeException
 {

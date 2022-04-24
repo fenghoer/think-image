@@ -9,10 +9,10 @@
 // | Author: yunwuxin <448901948@qq.com>
 // +----------------------------------------------------------------------
 
-namespace think;
+namespace fenghoer;
 
-use think\image\Exception as ImageException;
-use think\image\gif\Gif;
+use fenghoer\image\Exception as ImageException;
+use fenghoer\image\gif\Gif;
 
 class Image
 {
