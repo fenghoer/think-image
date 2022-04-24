@@ -1,10 +1,8 @@
-# The ThinkPHP5 Image Package
+# The Image Package
 
+[![Latest Version](https://img.shields.io/packagist/v/fenghoer/think-image.svg)](https://packagist.org/packages/fenghoer/think-image)
 [![Build Status](https://img.shields.io/travis/fenghoer/think-image.svg)](https://travis-ci.org/fenghoer/think-image)
-[![Coverage Status](https://img.shields.io/codecov/c/github/fenghoer/think-image.svg)](https://codecov.io/github/fenghoer/think-image)
-[![Downloads](https://img.shields.io/github/downloads/fenghoer/think-image/total.svg)](https://github.com/fenghoer/think-image/releases)
-[![Releases](https://img.shields.io/github/release/fenghoer/think-image.svg)](https://github.com/fenghoer/think-image/releases/latest)
-[![Releases Downloads](https://img.shields.io/github/downloads/fenghoer/think-image/latest/total.svg)](https://github.com/fenghoer/think-image/releases/latest)
+[![Php Version](https://img.shields.io/badge/php-%3E=7.4-brightgreen.svg)](https://secure.php.net/)
 [![Packagist Status](https://img.shields.io/packagist/v/fenghoer/think-image.svg)](https://packagist.org/packages/fenghoer/think-image)
 [![Packagist Downloads](https://img.shields.io/packagist/dt/fenghoer/think-image.svg)](https://packagist.org/packages/fenghoer/think-image)
 
