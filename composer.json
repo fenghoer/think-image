@@ -1,11 +1,11 @@
 {
-    "name": "topthink/think-image",
+    "name": "fenghoer/think-image",
     "description": "The ThinkPHP5 Image Package",
     "license": "Apache-2.0",
     "authors": [
         {
-            "name": "yunwuxin",
-            "email": "448901948@qq.com"
+            "name": "fenghoer",
+            "email": "fenghoer@163.com"
         }
     ],
     "require": {
